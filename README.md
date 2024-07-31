@@ -33,7 +33,7 @@ int main() {
     char info[128] = "FullStack developer and Machine Learning student";
 
     char *langs[7] = { "C", "C++","C#", "VB","PYTHON", "JavaScript", "TypeScript", };
-    char tech[8] = { ".NET", "Unity, "TensorFlow", "Django", "Laravel", "Node.js", "React", "Next.js", ""};
+    char tech[8] = { ".NET", "Unity", "TensorFlow", "Django", "Laravel", "Node.js", "React", "Next.js"};
     
     // Server:   https://discord.gg/skwJuprZAP;
     
