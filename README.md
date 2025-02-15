@@ -36,6 +36,13 @@
   <br>
 </div>
 
+
+<div align="center">
+  <a href="https://discord.gg/KM3E3j2qzT">
+    <img align="right" src="https://discordapp.com/api/guilds/1043678401413795850/widget.png?style=banner4"/>
+  </a>
+</div>
+
 <div align="center">
   <a href="https://github.com/ThiagoSantosOFC?tab=followers">
     <img alt="GitHub followers"
@@ -43,12 +50,6 @@
   </a>
 </div><br>
 
-<div align="center">
-  <a href="https://discord.gg/KM3E3j2qzT">
-    <img align="right" src="https://discordapp.com/api/guilds/1043678401413795850/widget.png?style=banner4"/>
-  </a>
-</div>
-<br>
 
 # **☕ Donates:**
 <h3 align="center">Contribute an amount to help fund new projects</h3>
