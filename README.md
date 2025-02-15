@@ -30,8 +30,6 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=footer"/>
-
 <div align="center">
     <a href="https://github.com/ThiagoSantosOFC?tab=followers">
         <img alt="GitHub followers" 
@@ -91,5 +89,6 @@
     <a href="https://ko-fi.com/thiagoshow">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&colorA=1e1e28&colorB=bee4ed" /></a>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=footer"/>
 
 
