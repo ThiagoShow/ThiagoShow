@@ -1,45 +1,49 @@
-<a href="https://discord.gg/skwJuprZAP">
-    <h3 align="center">
-        <img src="https://raw.githubusercontent.com/devscafecomunity/cafe/main/d7bcd594ca528d8a18074b02d43c0b28.png" width="280"><br>
-        Software Developers Community
-    </h3>
-    <p align="center">We bring together people with skills in computer science<br>data engineering, hard sciences, software developers, game dev, and much more...</p>
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a5acd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Santos;I'm+from+Brazil;I+Graduated+in+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoSantosOFC&show_icons=true&count_private=true&hide_border=true&title_color=6a5acd&icon_color=6a5acd&text_color=6a5acd&bg_color=0d1117" alt="Thiago Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSantosOFC&layout=compact&hide_border=true&title_color=6a5acd&text_color=6a5acd&bg_color=0d1117" />
+</div>
+
+<div align="center"> 
+<a href="mailto:t.mateus.santos2004@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+</div>
 
 <div align="center">
-    <a href"https://github.com/ThiagoSantosOFC?tab=followers">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThiagoSantosOFC}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=footer"/>
+
+<div align="center">
+    <a href="https://github.com/ThiagoSantosOFC?tab=followers">
         <img alt="GitHub followers" 
              src="https://img.shields.io/github/followers/ThiagoSantosOFC?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
     </a>
-    <a href="https://twitter.com/ThiagoShow__">
-        <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/ThiagoSantosOFC?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
-    </a>
-    <a href="https://discord.gg/skwJuprZAP">
-        <img alt="Discord server" 
-             src="https://img.shields.io/discord/914797672907563041?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge">
-    </a>
+
 </div><br>
 
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/skwJuprZAP"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
-
-```C++
-#include <iostream>
-#include <stdio.h>
-using namespace std::Thiago Santos;
-
-int main() {
-    char info[128] = "FullStack developer and Machine Learning student";
-
-    char *langs[7] = { "C", "C++","C#", "VB","PYTHON", "JavaScript", "TypeScript", };
-    char tech[8] = { ".NET", "Unity", "TensorFlow", "Django", "Laravel", "Node.js", "React", "Next.js"};
-    
-    // Server:   https://discord.gg/skwJuprZAP;
-    
-    return 0; 
-    }
-``` 
 
 <h4 align="center">
 
@@ -90,9 +94,4 @@ int main() {
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&colorA=1e1e28&colorB=bee4ed" /></a>
 </div>
 
-<h6 align="center">
-    <a href="https://discord.gg/skwJuprZAP"><img src="https://i.imgur.com/45TzgnD.png" width="50px" /></a>
- </h6>
- <h6> Template rights reserved to OkamiMks https://github.com/OkamiMks </h6>
 
-    
