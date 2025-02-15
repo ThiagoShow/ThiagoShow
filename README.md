@@ -11,6 +11,9 @@
   <a href="mailto:t.mateus.santos2004@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+  <a href="https://www.linkedin.com/in/thiago-santos-950a3722a/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
   
   ### Main skills:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -38,13 +41,12 @@
     <img alt="GitHub followers"
          src="https://img.shields.io/github/followers/ThiagoSantosOFC?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
   </a>
-
-
 </div><br>
-<div style="width: 10px;" align="center">
+
+<div align="center">
   <a href="https://discord.gg/KM3E3j2qzT">
-  <img align="right" src="https://discordapp.com/api/guilds/1043678401413795850/widget.png?style=banner4"/>
-</a>
+    <img align="right" src="https://discordapp.com/api/guilds/1043678401413795850/widget.png?style=banner4"/>
+  </a>
 </div>
 <br>
 
