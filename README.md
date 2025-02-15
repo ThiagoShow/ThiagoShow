@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://discord.gg/KM3E3j2qzT">
-    <img align="right" src="https://discordapp.com/api/guilds/1043678401413795850/widget.png?style=banner4"/>
+    <img align="right" src="https://discordapp.com/api/guilds/1043678401413795850/widget.png?style=banner2"/>
   </a>
 </div>
 <div align="center">
