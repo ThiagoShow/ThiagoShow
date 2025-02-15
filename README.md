@@ -21,7 +21,7 @@
 </div>
 
 <div align="center"> 
-<a href="mailto:cmp.1a.thiagomateus@icloud.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:t.mateus.santos2004@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -54,7 +54,7 @@
 </div><br>
 
 <div style="width: 10px;"></div>
-<a  href="https://discord.gg/skwJuprZAP"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
+<a  href="https://discord.gg/KM3E3j2qzT"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
 <h4 align="center">
 
