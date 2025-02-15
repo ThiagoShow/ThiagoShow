@@ -41,10 +41,11 @@
 
 
 </div><br>
-<div style="width: 10px;"></div>
-<a href="https://discord.gg/KM3E3j2qzT">
+<div style="width: 10px;" align="center">
+  <a href="https://discord.gg/KM3E3j2qzT">
   <img align="right" src="https://discordapp.com/api/guilds/1043678401413795850/widget.png?style=banner4"/>
 </a>
+</div>
 <br>
 
 # **☕ Donates:**
