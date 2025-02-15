@@ -38,12 +38,13 @@
     <img alt="GitHub followers"
          src="https://img.shields.io/github/followers/ThiagoSantosOFC?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
   </a>
-</div><br>
-
+  
 <div style="width: 10px;"></div>
 <a href="https://discord.gg/KM3E3j2qzT">
   <img align="right" src="https://discordapp.com/api/guilds/1043678401413795850/widget.png?style=banner4"/>
 </a>
+
+</div><br>
 
 
 
